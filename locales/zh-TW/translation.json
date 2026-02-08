@@ -1,0 +1,97 @@
+{
+  "header": {
+    "menu": {
+      "home": "首頁",
+      "team": "我們的團隊",
+      "getStarted": "聯繫我們"
+    },
+    "login": "登入",
+    "getStarted": "聯繫我們"
+  },
+  "hero": {
+    "titleStart": "量化",
+    "titleHighlight": "加密貨幣動量",
+    "titleEnd": "交易",
+    "description": "FV Capital 運用先進的量化策略捕捉加密貨幣市場的動量。我們結合尖端技術與嚴謹研究。",
+    "consultation": "我們的團隊",
+    "viewWork": "了解更多",
+    "readyToStart": "準備好了解更多？"
+  },
+  "features": {
+    "title": "為何選擇",
+    "titleHighlight": "FV Capital",
+    "description": "專業的量化交易策略，專注於加密貨幣動量",
+    "fastDevelopment": {
+      "title": "數據驅動策略",
+      "description": "先進算法分析市場數據，識別高概率交易機會"
+    },
+    "scalable": {
+      "title": "風險管理",
+      "description": "系統化風險控制和投資組合優化以保護資本"
+    },
+    "modern": {
+      "title": "市場研究",
+      "description": "持續研究開發專有交易信號"
+    }
+  },
+  "footer": {
+    "description": "專業的加密貨幣動量量化交易公司。",
+    "links": {
+      "team": "/team",
+      "email": "mailto:contact@fv-capital.com",
+      "address": "https://maps.google.com"
+    },
+    "company": {
+      "title": "公司",
+      "team": "我們的團隊"
+    },
+    "contact": {
+      "title": "聯絡",
+      "email": "contact@fv-capital.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "FV Capital",
+      "city": "紐約, NY"
+    },
+    "copyright": "© 2026 FV Capital. 版權所有。",
+    "privacy": "私隱政策",
+    "terms": "使用條款",
+    "cookies": "Cookie 政策"
+  },
+  "teamPage": {
+    "title": "我們的團隊",
+    "subtitle": "認識 FV Capital 背後的優秀人才",
+    "teamMembers": {
+      "title": "團隊成員",
+      "member1": {
+        "name": "John Smith",
+        "role": "創始人兼執行長",
+        "bio": "量化金融專家，擁有15年以上加密貨幣交易經驗"
+      },
+      "member2": {
+        "name": "Sarah Johnson",
+        "role": "首席投資官",
+        "bio": "前對沖基金經理，專注動量策略"
+      },
+      "member3": {
+        "name": "Michael Chen",
+        "role": "研究主管",
+        "bio": "計算機科學博士，算法交易專家"
+      },
+      "member4": {
+        "name": "Emily Wang",
+        "role": "風險經理",
+        "bio": "專注於投資組合優化和風險分析"
+      },
+      "member5": {
+        "name": "David Lee",
+        "role": "首席開發工程師",
+        "bio": "全端工程師，專長交易基礎設施"
+      },
+      "member6": {
+        "name": "Lisa Brown",
+        "role": "量化分析師",
+        "bio": "數學博士，專注統計套利"
+      }
+    }
+  }
+}
