@@ -120,17 +120,17 @@ export function Footer() {
         </div>
 
         {/* Bottom section */}
-        <div className="mt-12 pt-8 border-t border-purple-300">
+        <div className="mt-12 pt-8 border-t border-slate-300">
           <div className="flex flex-col sm:flex-row justify-between items-center space-y-4 sm:space-y-0">
             <div className="text-sm text-muted-foreground">{t('footer.copyright')}</div>
             <div className="flex flex-wrap justify-center sm:justify-end gap-x-6 gap-y-2 text-sm">
-              <a href="#" className="text-muted-foreground hover:text-purple-600 transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-slate-600 transition-colors">
                 {t('footer.privacy')}
               </a>
-              <a href="#" className="text-muted-foreground hover:text-purple-600 transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-slate-600 transition-colors">
                 {t('footer.terms')}
               </a>
-              <a href="#" className="text-muted-foreground hover:text-purple-600 transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-slate-600 transition-colors">
                 {t('footer.cookies')}
               </a>
             </div>
