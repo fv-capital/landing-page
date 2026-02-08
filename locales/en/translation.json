@@ -1,0 +1,97 @@
+{
+  "header": {
+    "menu": {
+      "home": "Home",
+      "team": "Our Team",
+      "getStarted": "Contact Us"
+    },
+    "login": "Login",
+    "getStarted": "Contact Us"
+  },
+  "hero": {
+    "titleStart": "Quantitative",
+    "titleHighlight": "Crypto Momentum",
+    "titleEnd": "Trading",
+    "description": "FV Capital employs sophisticated quantitative strategies to capture momentum in cryptocurrency markets. We combine cutting-edge technology with rigorous research.",
+    "consultation": "Our Team",
+    "viewWork": "Learn More",
+    "readyToStart": "Ready to Learn More?"
+  },
+  "features": {
+    "title": "Why Choose",
+    "titleHighlight": "FV Capital",
+    "description": "Professional quantitative trading strategies designed for crypto momentum",
+    "fastDevelopment": {
+      "title": "Data-Driven Strategies",
+      "description": "Advanced algorithms analyze market data to identify high-probability trading opportunities"
+    },
+    "scalable": {
+      "title": "Risk Management",
+      "description": "Systematic risk controls and portfolio optimization to protect capital"
+    },
+    "modern": {
+      "title": "Market Research",
+      "description": "Continuous research and development of proprietary trading signals"
+    }
+  },
+  "footer": {
+    "description": "Professional crypto momentum quant trading firm.",
+    "links": {
+      "team": "/team",
+      "email": "mailto:contact@fv-capital.com",
+      "address": "https://maps.google.com"
+    },
+    "company": {
+      "title": "Company",
+      "team": "Our Team"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "contact@fv-capital.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "FV Capital",
+      "city": "New York, NY"
+    },
+    "copyright": "© 2026 FV Capital. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy"
+  },
+  "teamPage": {
+    "title": "Our Team",
+    "subtitle": "Meet the talented people behind FV Capital",
+    "teamMembers": {
+      "title": "Team Members",
+      "member1": {
+        "name": "John Smith",
+        "role": "Founder & CEO",
+        "bio": "Quantitative Finance Expert with 15+ years in crypto trading"
+      },
+      "member2": {
+        "name": "Sarah Johnson",
+        "role": "Chief Investment Officer",
+        "bio": "Former hedge fund manager specializing in momentum strategies"
+      },
+      "member3": {
+        "name": "Michael Chen",
+        "role": "Head of Research",
+        "bio": "PhD in Computer Science, expert in algorithmic trading"
+      },
+      "member4": {
+        "name": "Emily Wang",
+        "role": "Risk Manager",
+        "bio": "Specialized in portfolio optimization and risk analytics"
+      },
+      "member5": {
+        "name": "David Lee",
+        "role": "Lead Developer",
+        "bio": "Full-stack engineer with expertise in trading infrastructure"
+      },
+      "member6": {
+        "name": "Lisa Brown",
+        "role": "Quantitative Analyst",
+        "bio": "Mathematics PhD focusing on statistical arbitrage"
+      }
+    }
+  }
+}
